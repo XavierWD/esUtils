@@ -50,3 +50,4 @@ PUT host:9200/customer_new/_mapping/esdata
 4.接下来就是迁移数据了
 
 java版本的：
+https://github.com/a328940026/esUtils
